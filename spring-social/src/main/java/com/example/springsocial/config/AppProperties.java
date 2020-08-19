@@ -1,6 +1,7 @@
 package com.example.springsocial.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.List;
